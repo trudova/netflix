@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    margin-top: 0.6rem;
+}
+.side{
+    flex: 1;
+}
+.homeAdmin{flex: 4;
+    background-color: #fff;
+}
+.adminWidgets{
+    display: flex;
+    margin: 1.2rem;
+}
